@@ -2,7 +2,7 @@
 - 👀 I’m interested in Becoming a Data Scientist
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on Discord, Github and any other platform
-- 📫 How to reach me: Twitter @1Baba_T
+- 📫 How to reach me: [Twitter - @1Baba_T] https://twitter.com/1Baba_T
 
 <!---
 Babatundey625/Babatundey625 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
